@@ -1,0 +1,16 @@
+C:\Users\Reema\source\repos\Examination_Strategy\Examination_Strategy\bin\Debug\net5.0\Examination_Strategy.exe
+C:\Users\Reema\source\repos\Examination_Strategy\Examination_Strategy\bin\Debug\net5.0\Examination_Strategy.deps.json
+C:\Users\Reema\source\repos\Examination_Strategy\Examination_Strategy\bin\Debug\net5.0\Examination_Strategy.runtimeconfig.json
+C:\Users\Reema\source\repos\Examination_Strategy\Examination_Strategy\bin\Debug\net5.0\Examination_Strategy.runtimeconfig.dev.json
+C:\Users\Reema\source\repos\Examination_Strategy\Examination_Strategy\bin\Debug\net5.0\Examination_Strategy.dll
+C:\Users\Reema\source\repos\Examination_Strategy\Examination_Strategy\bin\Debug\net5.0\ref\Examination_Strategy.dll
+C:\Users\Reema\source\repos\Examination_Strategy\Examination_Strategy\bin\Debug\net5.0\Examination_Strategy.pdb
+C:\Users\Reema\source\repos\Examination_Strategy\Examination_Strategy\obj\Debug\net5.0\Examination_Strategy.csprojAssemblyReference.cache
+C:\Users\Reema\source\repos\Examination_Strategy\Examination_Strategy\obj\Debug\net5.0\Examination_Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reema\source\repos\Examination_Strategy\Examination_Strategy\obj\Debug\net5.0\Examination_Strategy.AssemblyInfoInputs.cache
+C:\Users\Reema\source\repos\Examination_Strategy\Examination_Strategy\obj\Debug\net5.0\Examination_Strategy.AssemblyInfo.cs
+C:\Users\Reema\source\repos\Examination_Strategy\Examination_Strategy\obj\Debug\net5.0\Examination_Strategy.csproj.CoreCompileInputs.cache
+C:\Users\Reema\source\repos\Examination_Strategy\Examination_Strategy\obj\Debug\net5.0\Examination_Strategy.dll
+C:\Users\Reema\source\repos\Examination_Strategy\Examination_Strategy\obj\Debug\net5.0\ref\Examination_Strategy.dll
+C:\Users\Reema\source\repos\Examination_Strategy\Examination_Strategy\obj\Debug\net5.0\Examination_Strategy.pdb
+C:\Users\Reema\source\repos\Examination_Strategy\Examination_Strategy\obj\Debug\net5.0\Examination_Strategy.genruntimeconfig.cache
