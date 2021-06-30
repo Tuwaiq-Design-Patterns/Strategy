@@ -1,0 +1,15 @@
+/Users/hanans/Desktop/t/lessons/week10/Strategy/startegy-design-pattern/startegy-design-pattern/bin/Debug/net5.0/startegy-design-pattern.deps.json
+/Users/hanans/Desktop/t/lessons/week10/Strategy/startegy-design-pattern/startegy-design-pattern/bin/Debug/net5.0/startegy-design-pattern.runtimeconfig.json
+/Users/hanans/Desktop/t/lessons/week10/Strategy/startegy-design-pattern/startegy-design-pattern/bin/Debug/net5.0/startegy-design-pattern.runtimeconfig.dev.json
+/Users/hanans/Desktop/t/lessons/week10/Strategy/startegy-design-pattern/startegy-design-pattern/bin/Debug/net5.0/startegy-design-pattern.dll
+/Users/hanans/Desktop/t/lessons/week10/Strategy/startegy-design-pattern/startegy-design-pattern/bin/Debug/net5.0/ref/startegy-design-pattern.dll
+/Users/hanans/Desktop/t/lessons/week10/Strategy/startegy-design-pattern/startegy-design-pattern/bin/Debug/net5.0/startegy-design-pattern.pdb
+/Users/hanans/Desktop/t/lessons/week10/Strategy/startegy-design-pattern/startegy-design-pattern/obj/Debug/net5.0/startegy-design-pattern.csproj.AssemblyReference.cache
+/Users/hanans/Desktop/t/lessons/week10/Strategy/startegy-design-pattern/startegy-design-pattern/obj/Debug/net5.0/startegy-design-pattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hanans/Desktop/t/lessons/week10/Strategy/startegy-design-pattern/startegy-design-pattern/obj/Debug/net5.0/startegy-design-pattern.AssemblyInfoInputs.cache
+/Users/hanans/Desktop/t/lessons/week10/Strategy/startegy-design-pattern/startegy-design-pattern/obj/Debug/net5.0/startegy-design-pattern.AssemblyInfo.cs
+/Users/hanans/Desktop/t/lessons/week10/Strategy/startegy-design-pattern/startegy-design-pattern/obj/Debug/net5.0/startegy-design-pattern.csproj.CoreCompileInputs.cache
+/Users/hanans/Desktop/t/lessons/week10/Strategy/startegy-design-pattern/startegy-design-pattern/obj/Debug/net5.0/startegy-design-pattern.dll
+/Users/hanans/Desktop/t/lessons/week10/Strategy/startegy-design-pattern/startegy-design-pattern/obj/Debug/net5.0/ref/startegy-design-pattern.dll
+/Users/hanans/Desktop/t/lessons/week10/Strategy/startegy-design-pattern/startegy-design-pattern/obj/Debug/net5.0/startegy-design-pattern.pdb
+/Users/hanans/Desktop/t/lessons/week10/Strategy/startegy-design-pattern/startegy-design-pattern/obj/Debug/net5.0/startegy-design-pattern.genruntimeconfig.cache
