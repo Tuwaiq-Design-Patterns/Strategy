@@ -1,0 +1,16 @@
+C:\Users\IBRA\RiderProjects\StrategyDemo2\StrategyDemo2\bin\Debug\net5.0\StrategyDemo2.exe
+C:\Users\IBRA\RiderProjects\StrategyDemo2\StrategyDemo2\bin\Debug\net5.0\StrategyDemo2.deps.json
+C:\Users\IBRA\RiderProjects\StrategyDemo2\StrategyDemo2\bin\Debug\net5.0\StrategyDemo2.runtimeconfig.json
+C:\Users\IBRA\RiderProjects\StrategyDemo2\StrategyDemo2\bin\Debug\net5.0\StrategyDemo2.runtimeconfig.dev.json
+C:\Users\IBRA\RiderProjects\StrategyDemo2\StrategyDemo2\bin\Debug\net5.0\StrategyDemo2.dll
+C:\Users\IBRA\RiderProjects\StrategyDemo2\StrategyDemo2\bin\Debug\net5.0\ref\StrategyDemo2.dll
+C:\Users\IBRA\RiderProjects\StrategyDemo2\StrategyDemo2\bin\Debug\net5.0\StrategyDemo2.pdb
+C:\Users\IBRA\RiderProjects\StrategyDemo2\StrategyDemo2\obj\Debug\net5.0\StrategyDemo2.csproj.AssemblyReference.cache
+C:\Users\IBRA\RiderProjects\StrategyDemo2\StrategyDemo2\obj\Debug\net5.0\StrategyDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBRA\RiderProjects\StrategyDemo2\StrategyDemo2\obj\Debug\net5.0\StrategyDemo2.AssemblyInfoInputs.cache
+C:\Users\IBRA\RiderProjects\StrategyDemo2\StrategyDemo2\obj\Debug\net5.0\StrategyDemo2.AssemblyInfo.cs
+C:\Users\IBRA\RiderProjects\StrategyDemo2\StrategyDemo2\obj\Debug\net5.0\StrategyDemo2.csproj.CoreCompileInputs.cache
+C:\Users\IBRA\RiderProjects\StrategyDemo2\StrategyDemo2\obj\Debug\net5.0\StrategyDemo2.dll
+C:\Users\IBRA\RiderProjects\StrategyDemo2\StrategyDemo2\obj\Debug\net5.0\ref\StrategyDemo2.dll
+C:\Users\IBRA\RiderProjects\StrategyDemo2\StrategyDemo2\obj\Debug\net5.0\StrategyDemo2.pdb
+C:\Users\IBRA\RiderProjects\StrategyDemo2\StrategyDemo2\obj\Debug\net5.0\StrategyDemo2.genruntimeconfig.cache
