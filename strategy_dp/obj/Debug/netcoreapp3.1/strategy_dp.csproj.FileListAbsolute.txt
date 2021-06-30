@@ -1,0 +1,12 @@
+/Users/arwawanla/Projects/design pattern/strategy_dp/bin/Debug/netcoreapp3.1/strategy_dp.deps.json
+/Users/arwawanla/Projects/design pattern/strategy_dp/bin/Debug/netcoreapp3.1/strategy_dp.runtimeconfig.json
+/Users/arwawanla/Projects/design pattern/strategy_dp/bin/Debug/netcoreapp3.1/strategy_dp.runtimeconfig.dev.json
+/Users/arwawanla/Projects/design pattern/strategy_dp/bin/Debug/netcoreapp3.1/strategy_dp.dll
+/Users/arwawanla/Projects/design pattern/strategy_dp/bin/Debug/netcoreapp3.1/strategy_dp.pdb
+/Users/arwawanla/Projects/design pattern/strategy_dp/obj/Debug/netcoreapp3.1/strategy_dp.csprojAssemblyReference.cache
+/Users/arwawanla/Projects/design pattern/strategy_dp/obj/Debug/netcoreapp3.1/strategy_dp.AssemblyInfoInputs.cache
+/Users/arwawanla/Projects/design pattern/strategy_dp/obj/Debug/netcoreapp3.1/strategy_dp.AssemblyInfo.cs
+/Users/arwawanla/Projects/design pattern/strategy_dp/obj/Debug/netcoreapp3.1/strategy_dp.csproj.CoreCompileInputs.cache
+/Users/arwawanla/Projects/design pattern/strategy_dp/obj/Debug/netcoreapp3.1/strategy_dp.dll
+/Users/arwawanla/Projects/design pattern/strategy_dp/obj/Debug/netcoreapp3.1/strategy_dp.pdb
+/Users/arwawanla/Projects/design pattern/strategy_dp/obj/Debug/netcoreapp3.1/strategy_dp.genruntimeconfig.cache
