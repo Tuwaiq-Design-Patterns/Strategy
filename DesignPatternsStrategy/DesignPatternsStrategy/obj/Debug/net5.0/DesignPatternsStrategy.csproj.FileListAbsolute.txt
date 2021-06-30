@@ -1,0 +1,16 @@
+C:\Users\hussa\source\repos\DesignPatternsStrategy\DesignPatternsStrategy\bin\Debug\net5.0\DesignPatternsStrategy.exe
+C:\Users\hussa\source\repos\DesignPatternsStrategy\DesignPatternsStrategy\bin\Debug\net5.0\DesignPatternsStrategy.deps.json
+C:\Users\hussa\source\repos\DesignPatternsStrategy\DesignPatternsStrategy\bin\Debug\net5.0\DesignPatternsStrategy.runtimeconfig.json
+C:\Users\hussa\source\repos\DesignPatternsStrategy\DesignPatternsStrategy\bin\Debug\net5.0\DesignPatternsStrategy.runtimeconfig.dev.json
+C:\Users\hussa\source\repos\DesignPatternsStrategy\DesignPatternsStrategy\bin\Debug\net5.0\DesignPatternsStrategy.dll
+C:\Users\hussa\source\repos\DesignPatternsStrategy\DesignPatternsStrategy\bin\Debug\net5.0\ref\DesignPatternsStrategy.dll
+C:\Users\hussa\source\repos\DesignPatternsStrategy\DesignPatternsStrategy\bin\Debug\net5.0\DesignPatternsStrategy.pdb
+C:\Users\hussa\source\repos\DesignPatternsStrategy\DesignPatternsStrategy\obj\Debug\net5.0\DesignPatternsStrategy.csprojAssemblyReference.cache
+C:\Users\hussa\source\repos\DesignPatternsStrategy\DesignPatternsStrategy\obj\Debug\net5.0\DesignPatternsStrategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hussa\source\repos\DesignPatternsStrategy\DesignPatternsStrategy\obj\Debug\net5.0\DesignPatternsStrategy.AssemblyInfoInputs.cache
+C:\Users\hussa\source\repos\DesignPatternsStrategy\DesignPatternsStrategy\obj\Debug\net5.0\DesignPatternsStrategy.AssemblyInfo.cs
+C:\Users\hussa\source\repos\DesignPatternsStrategy\DesignPatternsStrategy\obj\Debug\net5.0\DesignPatternsStrategy.csproj.CoreCompileInputs.cache
+C:\Users\hussa\source\repos\DesignPatternsStrategy\DesignPatternsStrategy\obj\Debug\net5.0\DesignPatternsStrategy.dll
+C:\Users\hussa\source\repos\DesignPatternsStrategy\DesignPatternsStrategy\obj\Debug\net5.0\ref\DesignPatternsStrategy.dll
+C:\Users\hussa\source\repos\DesignPatternsStrategy\DesignPatternsStrategy\obj\Debug\net5.0\DesignPatternsStrategy.pdb
+C:\Users\hussa\source\repos\DesignPatternsStrategy\DesignPatternsStrategy\obj\Debug\net5.0\DesignPatternsStrategy.genruntimeconfig.cache
