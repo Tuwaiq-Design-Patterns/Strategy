@@ -1,0 +1,15 @@
+/Users/afra/Projects/STRATEGY/STRATEGY/bin/Debug/net5.0/STRATEGY.deps.json
+/Users/afra/Projects/STRATEGY/STRATEGY/bin/Debug/net5.0/STRATEGY.runtimeconfig.json
+/Users/afra/Projects/STRATEGY/STRATEGY/bin/Debug/net5.0/STRATEGY.runtimeconfig.dev.json
+/Users/afra/Projects/STRATEGY/STRATEGY/bin/Debug/net5.0/STRATEGY.dll
+/Users/afra/Projects/STRATEGY/STRATEGY/bin/Debug/net5.0/ref/STRATEGY.dll
+/Users/afra/Projects/STRATEGY/STRATEGY/bin/Debug/net5.0/STRATEGY.pdb
+/Users/afra/Projects/STRATEGY/STRATEGY/obj/Debug/net5.0/STRATEGY.csproj.AssemblyReference.cache
+/Users/afra/Projects/STRATEGY/STRATEGY/obj/Debug/net5.0/STRATEGY.GeneratedMSBuildEditorConfig.editorconfig
+/Users/afra/Projects/STRATEGY/STRATEGY/obj/Debug/net5.0/STRATEGY.AssemblyInfoInputs.cache
+/Users/afra/Projects/STRATEGY/STRATEGY/obj/Debug/net5.0/STRATEGY.AssemblyInfo.cs
+/Users/afra/Projects/STRATEGY/STRATEGY/obj/Debug/net5.0/STRATEGY.csproj.CoreCompileInputs.cache
+/Users/afra/Projects/STRATEGY/STRATEGY/obj/Debug/net5.0/STRATEGY.dll
+/Users/afra/Projects/STRATEGY/STRATEGY/obj/Debug/net5.0/ref/STRATEGY.dll
+/Users/afra/Projects/STRATEGY/STRATEGY/obj/Debug/net5.0/STRATEGY.pdb
+/Users/afra/Projects/STRATEGY/STRATEGY/obj/Debug/net5.0/STRATEGY.genruntimeconfig.cache
