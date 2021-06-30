@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{CB4FE1BB-9077-4C04-8B71-70A50DCCF932}|Default">
+  <MonoDevelop.Ide.ItemProperties.Strategy__Design__Pattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Strategy_Design_Pattern/Program.cs">
+    <Files>
+      <File FileName="Strategy_Design_Pattern/Program.cs" Line="9" Column="47" />
+      <File FileName="Strategy_Design_Pattern/PaymentMethod.cs" Line="6" Column="40" />
+      <File FileName="Strategy_Design_Pattern/Visa.cs" Line="14" Column="36" />
+      <File FileName="Strategy_Design_Pattern/PayPal.cs" Line="10" Column="9" />
+      <File FileName="Strategy_Design_Pattern/Mada.cs" Line="10" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Strategy_Design_Pattern" expanded="True">
+            <Node name="Strategy_Design_Pattern" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
