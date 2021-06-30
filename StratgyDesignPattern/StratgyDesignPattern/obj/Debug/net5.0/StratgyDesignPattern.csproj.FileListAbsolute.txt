@@ -1,0 +1,16 @@
+C:\Users\Shaha\source\repos\StratgyDesignPattern\StratgyDesignPattern\bin\Debug\net5.0\StratgyDesignPattern.exe
+C:\Users\Shaha\source\repos\StratgyDesignPattern\StratgyDesignPattern\bin\Debug\net5.0\StratgyDesignPattern.deps.json
+C:\Users\Shaha\source\repos\StratgyDesignPattern\StratgyDesignPattern\bin\Debug\net5.0\StratgyDesignPattern.runtimeconfig.json
+C:\Users\Shaha\source\repos\StratgyDesignPattern\StratgyDesignPattern\bin\Debug\net5.0\StratgyDesignPattern.runtimeconfig.dev.json
+C:\Users\Shaha\source\repos\StratgyDesignPattern\StratgyDesignPattern\bin\Debug\net5.0\StratgyDesignPattern.dll
+C:\Users\Shaha\source\repos\StratgyDesignPattern\StratgyDesignPattern\bin\Debug\net5.0\ref\StratgyDesignPattern.dll
+C:\Users\Shaha\source\repos\StratgyDesignPattern\StratgyDesignPattern\bin\Debug\net5.0\StratgyDesignPattern.pdb
+C:\Users\Shaha\source\repos\StratgyDesignPattern\StratgyDesignPattern\obj\Debug\net5.0\StratgyDesignPattern.csproj.AssemblyReference.cache
+C:\Users\Shaha\source\repos\StratgyDesignPattern\StratgyDesignPattern\obj\Debug\net5.0\StratgyDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaha\source\repos\StratgyDesignPattern\StratgyDesignPattern\obj\Debug\net5.0\StratgyDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Shaha\source\repos\StratgyDesignPattern\StratgyDesignPattern\obj\Debug\net5.0\StratgyDesignPattern.AssemblyInfo.cs
+C:\Users\Shaha\source\repos\StratgyDesignPattern\StratgyDesignPattern\obj\Debug\net5.0\StratgyDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Shaha\source\repos\StratgyDesignPattern\StratgyDesignPattern\obj\Debug\net5.0\StratgyDesignPattern.dll
+C:\Users\Shaha\source\repos\StratgyDesignPattern\StratgyDesignPattern\obj\Debug\net5.0\ref\StratgyDesignPattern.dll
+C:\Users\Shaha\source\repos\StratgyDesignPattern\StratgyDesignPattern\obj\Debug\net5.0\StratgyDesignPattern.pdb
+C:\Users\Shaha\source\repos\StratgyDesignPattern\StratgyDesignPattern\obj\Debug\net5.0\StratgyDesignPattern.genruntimeconfig.cache
