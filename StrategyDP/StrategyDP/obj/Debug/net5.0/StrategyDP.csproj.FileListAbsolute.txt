@@ -1,0 +1,16 @@
+C:\Users\h--sa\RiderProjects\StrategyDP\StrategyDP\bin\Debug\net5.0\StrategyDP.exe
+C:\Users\h--sa\RiderProjects\StrategyDP\StrategyDP\bin\Debug\net5.0\StrategyDP.deps.json
+C:\Users\h--sa\RiderProjects\StrategyDP\StrategyDP\bin\Debug\net5.0\StrategyDP.runtimeconfig.json
+C:\Users\h--sa\RiderProjects\StrategyDP\StrategyDP\bin\Debug\net5.0\StrategyDP.runtimeconfig.dev.json
+C:\Users\h--sa\RiderProjects\StrategyDP\StrategyDP\bin\Debug\net5.0\StrategyDP.dll
+C:\Users\h--sa\RiderProjects\StrategyDP\StrategyDP\bin\Debug\net5.0\ref\StrategyDP.dll
+C:\Users\h--sa\RiderProjects\StrategyDP\StrategyDP\bin\Debug\net5.0\StrategyDP.pdb
+C:\Users\h--sa\RiderProjects\StrategyDP\StrategyDP\obj\Debug\net5.0\StrategyDP.csprojAssemblyReference.cache
+C:\Users\h--sa\RiderProjects\StrategyDP\StrategyDP\obj\Debug\net5.0\StrategyDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h--sa\RiderProjects\StrategyDP\StrategyDP\obj\Debug\net5.0\StrategyDP.AssemblyInfoInputs.cache
+C:\Users\h--sa\RiderProjects\StrategyDP\StrategyDP\obj\Debug\net5.0\StrategyDP.AssemblyInfo.cs
+C:\Users\h--sa\RiderProjects\StrategyDP\StrategyDP\obj\Debug\net5.0\StrategyDP.csproj.CoreCompileInputs.cache
+C:\Users\h--sa\RiderProjects\StrategyDP\StrategyDP\obj\Debug\net5.0\StrategyDP.dll
+C:\Users\h--sa\RiderProjects\StrategyDP\StrategyDP\obj\Debug\net5.0\ref\StrategyDP.dll
+C:\Users\h--sa\RiderProjects\StrategyDP\StrategyDP\obj\Debug\net5.0\StrategyDP.pdb
+C:\Users\h--sa\RiderProjects\StrategyDP\StrategyDP\obj\Debug\net5.0\StrategyDP.genruntimeconfig.cache
