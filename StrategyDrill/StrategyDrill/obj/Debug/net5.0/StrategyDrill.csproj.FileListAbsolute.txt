@@ -1,0 +1,16 @@
+C:\Users\lenovo1\RiderProjects\StrategyDrill\StrategyDrill\bin\Debug\net5.0\StrategyDrill.exe
+C:\Users\lenovo1\RiderProjects\StrategyDrill\StrategyDrill\bin\Debug\net5.0\StrategyDrill.deps.json
+C:\Users\lenovo1\RiderProjects\StrategyDrill\StrategyDrill\bin\Debug\net5.0\StrategyDrill.runtimeconfig.json
+C:\Users\lenovo1\RiderProjects\StrategyDrill\StrategyDrill\bin\Debug\net5.0\StrategyDrill.runtimeconfig.dev.json
+C:\Users\lenovo1\RiderProjects\StrategyDrill\StrategyDrill\bin\Debug\net5.0\StrategyDrill.dll
+C:\Users\lenovo1\RiderProjects\StrategyDrill\StrategyDrill\bin\Debug\net5.0\ref\StrategyDrill.dll
+C:\Users\lenovo1\RiderProjects\StrategyDrill\StrategyDrill\bin\Debug\net5.0\StrategyDrill.pdb
+C:\Users\lenovo1\RiderProjects\StrategyDrill\StrategyDrill\obj\Debug\net5.0\StrategyDrill.csprojAssemblyReference.cache
+C:\Users\lenovo1\RiderProjects\StrategyDrill\StrategyDrill\obj\Debug\net5.0\StrategyDrill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo1\RiderProjects\StrategyDrill\StrategyDrill\obj\Debug\net5.0\StrategyDrill.AssemblyInfoInputs.cache
+C:\Users\lenovo1\RiderProjects\StrategyDrill\StrategyDrill\obj\Debug\net5.0\StrategyDrill.AssemblyInfo.cs
+C:\Users\lenovo1\RiderProjects\StrategyDrill\StrategyDrill\obj\Debug\net5.0\StrategyDrill.csproj.CoreCompileInputs.cache
+C:\Users\lenovo1\RiderProjects\StrategyDrill\StrategyDrill\obj\Debug\net5.0\StrategyDrill.dll
+C:\Users\lenovo1\RiderProjects\StrategyDrill\StrategyDrill\obj\Debug\net5.0\ref\StrategyDrill.dll
+C:\Users\lenovo1\RiderProjects\StrategyDrill\StrategyDrill\obj\Debug\net5.0\StrategyDrill.pdb
+C:\Users\lenovo1\RiderProjects\StrategyDrill\StrategyDrill\obj\Debug\net5.0\StrategyDrill.genruntimeconfig.cache
