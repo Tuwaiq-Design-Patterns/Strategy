@@ -1,0 +1,16 @@
+C:\Users\Adel_Kalu\source\repos\Streatgy\Streatgy\bin\Debug\net5.0\Streatgy.exe
+C:\Users\Adel_Kalu\source\repos\Streatgy\Streatgy\bin\Debug\net5.0\Streatgy.deps.json
+C:\Users\Adel_Kalu\source\repos\Streatgy\Streatgy\bin\Debug\net5.0\Streatgy.runtimeconfig.json
+C:\Users\Adel_Kalu\source\repos\Streatgy\Streatgy\bin\Debug\net5.0\Streatgy.runtimeconfig.dev.json
+C:\Users\Adel_Kalu\source\repos\Streatgy\Streatgy\bin\Debug\net5.0\Streatgy.dll
+C:\Users\Adel_Kalu\source\repos\Streatgy\Streatgy\bin\Debug\net5.0\ref\Streatgy.dll
+C:\Users\Adel_Kalu\source\repos\Streatgy\Streatgy\bin\Debug\net5.0\Streatgy.pdb
+C:\Users\Adel_Kalu\source\repos\Streatgy\Streatgy\obj\Debug\net5.0\Streatgy.csproj.AssemblyReference.cache
+C:\Users\Adel_Kalu\source\repos\Streatgy\Streatgy\obj\Debug\net5.0\Streatgy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adel_Kalu\source\repos\Streatgy\Streatgy\obj\Debug\net5.0\Streatgy.AssemblyInfoInputs.cache
+C:\Users\Adel_Kalu\source\repos\Streatgy\Streatgy\obj\Debug\net5.0\Streatgy.AssemblyInfo.cs
+C:\Users\Adel_Kalu\source\repos\Streatgy\Streatgy\obj\Debug\net5.0\Streatgy.csproj.CoreCompileInputs.cache
+C:\Users\Adel_Kalu\source\repos\Streatgy\Streatgy\obj\Debug\net5.0\Streatgy.dll
+C:\Users\Adel_Kalu\source\repos\Streatgy\Streatgy\obj\Debug\net5.0\ref\Streatgy.dll
+C:\Users\Adel_Kalu\source\repos\Streatgy\Streatgy\obj\Debug\net5.0\Streatgy.pdb
+C:\Users\Adel_Kalu\source\repos\Streatgy\Streatgy\obj\Debug\net5.0\Streatgy.genruntimeconfig.cache
