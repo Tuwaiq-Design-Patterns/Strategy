@@ -1,0 +1,16 @@
+D:\Tuwaiq\DesignPatterns\practice\StrategyPractice\StrategyPractice\bin\Debug\net5.0\StrategyPractice.exe
+D:\Tuwaiq\DesignPatterns\practice\StrategyPractice\StrategyPractice\bin\Debug\net5.0\StrategyPractice.deps.json
+D:\Tuwaiq\DesignPatterns\practice\StrategyPractice\StrategyPractice\bin\Debug\net5.0\StrategyPractice.runtimeconfig.json
+D:\Tuwaiq\DesignPatterns\practice\StrategyPractice\StrategyPractice\bin\Debug\net5.0\StrategyPractice.runtimeconfig.dev.json
+D:\Tuwaiq\DesignPatterns\practice\StrategyPractice\StrategyPractice\bin\Debug\net5.0\StrategyPractice.dll
+D:\Tuwaiq\DesignPatterns\practice\StrategyPractice\StrategyPractice\bin\Debug\net5.0\ref\StrategyPractice.dll
+D:\Tuwaiq\DesignPatterns\practice\StrategyPractice\StrategyPractice\bin\Debug\net5.0\StrategyPractice.pdb
+D:\Tuwaiq\DesignPatterns\practice\StrategyPractice\StrategyPractice\obj\Debug\net5.0\StrategyPractice.csprojAssemblyReference.cache
+D:\Tuwaiq\DesignPatterns\practice\StrategyPractice\StrategyPractice\obj\Debug\net5.0\StrategyPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tuwaiq\DesignPatterns\practice\StrategyPractice\StrategyPractice\obj\Debug\net5.0\StrategyPractice.AssemblyInfoInputs.cache
+D:\Tuwaiq\DesignPatterns\practice\StrategyPractice\StrategyPractice\obj\Debug\net5.0\StrategyPractice.AssemblyInfo.cs
+D:\Tuwaiq\DesignPatterns\practice\StrategyPractice\StrategyPractice\obj\Debug\net5.0\StrategyPractice.csproj.CoreCompileInputs.cache
+D:\Tuwaiq\DesignPatterns\practice\StrategyPractice\StrategyPractice\obj\Debug\net5.0\StrategyPractice.dll
+D:\Tuwaiq\DesignPatterns\practice\StrategyPractice\StrategyPractice\obj\Debug\net5.0\ref\StrategyPractice.dll
+D:\Tuwaiq\DesignPatterns\practice\StrategyPractice\StrategyPractice\obj\Debug\net5.0\StrategyPractice.pdb
+D:\Tuwaiq\DesignPatterns\practice\StrategyPractice\StrategyPractice\obj\Debug\net5.0\StrategyPractice.genruntimeconfig.cache
