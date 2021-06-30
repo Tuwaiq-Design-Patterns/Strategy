@@ -1,0 +1,16 @@
+D:\Tuwaiq\ClassDesignPattern\Strategy\bin\Debug\net5.0\Strategy.exe
+D:\Tuwaiq\ClassDesignPattern\Strategy\bin\Debug\net5.0\Strategy.deps.json
+D:\Tuwaiq\ClassDesignPattern\Strategy\bin\Debug\net5.0\Strategy.runtimeconfig.json
+D:\Tuwaiq\ClassDesignPattern\Strategy\bin\Debug\net5.0\Strategy.runtimeconfig.dev.json
+D:\Tuwaiq\ClassDesignPattern\Strategy\bin\Debug\net5.0\Strategy.dll
+D:\Tuwaiq\ClassDesignPattern\Strategy\bin\Debug\net5.0\ref\Strategy.dll
+D:\Tuwaiq\ClassDesignPattern\Strategy\bin\Debug\net5.0\Strategy.pdb
+D:\Tuwaiq\ClassDesignPattern\Strategy\obj\Debug\net5.0\Strategy.csproj.AssemblyReference.cache
+D:\Tuwaiq\ClassDesignPattern\Strategy\obj\Debug\net5.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tuwaiq\ClassDesignPattern\Strategy\obj\Debug\net5.0\Strategy.AssemblyInfoInputs.cache
+D:\Tuwaiq\ClassDesignPattern\Strategy\obj\Debug\net5.0\Strategy.AssemblyInfo.cs
+D:\Tuwaiq\ClassDesignPattern\Strategy\obj\Debug\net5.0\Strategy.csproj.CoreCompileInputs.cache
+D:\Tuwaiq\ClassDesignPattern\Strategy\obj\Debug\net5.0\Strategy.dll
+D:\Tuwaiq\ClassDesignPattern\Strategy\obj\Debug\net5.0\ref\Strategy.dll
+D:\Tuwaiq\ClassDesignPattern\Strategy\obj\Debug\net5.0\Strategy.pdb
+D:\Tuwaiq\ClassDesignPattern\Strategy\obj\Debug\net5.0\Strategy.genruntimeconfig.cache
