@@ -1,0 +1,16 @@
+C:\Users\taef_\source\repos\Strategy\Strategy\bin\Debug\net5.0\Strategy.exe
+C:\Users\taef_\source\repos\Strategy\Strategy\bin\Debug\net5.0\Strategy.deps.json
+C:\Users\taef_\source\repos\Strategy\Strategy\bin\Debug\net5.0\Strategy.runtimeconfig.json
+C:\Users\taef_\source\repos\Strategy\Strategy\bin\Debug\net5.0\Strategy.runtimeconfig.dev.json
+C:\Users\taef_\source\repos\Strategy\Strategy\bin\Debug\net5.0\Strategy.dll
+C:\Users\taef_\source\repos\Strategy\Strategy\bin\Debug\net5.0\ref\Strategy.dll
+C:\Users\taef_\source\repos\Strategy\Strategy\bin\Debug\net5.0\Strategy.pdb
+C:\Users\taef_\source\repos\Strategy\Strategy\obj\Debug\net5.0\Strategy.csprojAssemblyReference.cache
+C:\Users\taef_\source\repos\Strategy\Strategy\obj\Debug\net5.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taef_\source\repos\Strategy\Strategy\obj\Debug\net5.0\Strategy.AssemblyInfoInputs.cache
+C:\Users\taef_\source\repos\Strategy\Strategy\obj\Debug\net5.0\Strategy.AssemblyInfo.cs
+C:\Users\taef_\source\repos\Strategy\Strategy\obj\Debug\net5.0\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\taef_\source\repos\Strategy\Strategy\obj\Debug\net5.0\Strategy.dll
+C:\Users\taef_\source\repos\Strategy\Strategy\obj\Debug\net5.0\ref\Strategy.dll
+C:\Users\taef_\source\repos\Strategy\Strategy\obj\Debug\net5.0\Strategy.pdb
+C:\Users\taef_\source\repos\Strategy\Strategy\obj\Debug\net5.0\Strategy.genruntimeconfig.cache
