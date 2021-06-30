@@ -15,6 +15,3 @@ this repo contains strategy design pattern implementation using C#
 ### <b> BY:</b>  Mohammed Rashed Albalawi.
 
 
-<br />
-<hr />
-<br />
