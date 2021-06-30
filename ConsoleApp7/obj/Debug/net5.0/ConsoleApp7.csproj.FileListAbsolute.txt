@@ -1,0 +1,16 @@
+D:\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ConsoleApp7.exe
+D:\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ConsoleApp7.deps.json
+D:\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ConsoleApp7.runtimeconfig.json
+D:\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ConsoleApp7.runtimeconfig.dev.json
+D:\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ConsoleApp7.dll
+D:\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ref\ConsoleApp7.dll
+D:\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ConsoleApp7.pdb
+D:\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.csprojAssemblyReference.cache
+D:\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.AssemblyInfoInputs.cache
+D:\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.AssemblyInfo.cs
+D:\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+D:\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.dll
+D:\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ref\ConsoleApp7.dll
+D:\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.pdb
+D:\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.genruntimeconfig.cache
