@@ -1,0 +1,16 @@
+C:\Users\Taghr\source\repos\strategyPattern\strategyPattern\bin\Debug\net5.0\strategyPattern.exe
+C:\Users\Taghr\source\repos\strategyPattern\strategyPattern\bin\Debug\net5.0\strategyPattern.deps.json
+C:\Users\Taghr\source\repos\strategyPattern\strategyPattern\bin\Debug\net5.0\strategyPattern.runtimeconfig.json
+C:\Users\Taghr\source\repos\strategyPattern\strategyPattern\bin\Debug\net5.0\strategyPattern.runtimeconfig.dev.json
+C:\Users\Taghr\source\repos\strategyPattern\strategyPattern\bin\Debug\net5.0\strategyPattern.dll
+C:\Users\Taghr\source\repos\strategyPattern\strategyPattern\bin\Debug\net5.0\ref\strategyPattern.dll
+C:\Users\Taghr\source\repos\strategyPattern\strategyPattern\bin\Debug\net5.0\strategyPattern.pdb
+C:\Users\Taghr\source\repos\strategyPattern\strategyPattern\obj\Debug\net5.0\strategyPattern.csprojAssemblyReference.cache
+C:\Users\Taghr\source\repos\strategyPattern\strategyPattern\obj\Debug\net5.0\strategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taghr\source\repos\strategyPattern\strategyPattern\obj\Debug\net5.0\strategyPattern.AssemblyInfoInputs.cache
+C:\Users\Taghr\source\repos\strategyPattern\strategyPattern\obj\Debug\net5.0\strategyPattern.AssemblyInfo.cs
+C:\Users\Taghr\source\repos\strategyPattern\strategyPattern\obj\Debug\net5.0\strategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\Taghr\source\repos\strategyPattern\strategyPattern\obj\Debug\net5.0\strategyPattern.dll
+C:\Users\Taghr\source\repos\strategyPattern\strategyPattern\obj\Debug\net5.0\ref\strategyPattern.dll
+C:\Users\Taghr\source\repos\strategyPattern\strategyPattern\obj\Debug\net5.0\strategyPattern.pdb
+C:\Users\Taghr\source\repos\strategyPattern\strategyPattern\obj\Debug\net5.0\strategyPattern.genruntimeconfig.cache
