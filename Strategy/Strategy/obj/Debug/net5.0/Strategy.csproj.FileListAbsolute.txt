@@ -1,0 +1,16 @@
+C:\Users\Alban\source\repos\Strategy\Strategy\bin\Debug\net5.0\Strategy.exe
+C:\Users\Alban\source\repos\Strategy\Strategy\bin\Debug\net5.0\Strategy.deps.json
+C:\Users\Alban\source\repos\Strategy\Strategy\bin\Debug\net5.0\Strategy.runtimeconfig.json
+C:\Users\Alban\source\repos\Strategy\Strategy\bin\Debug\net5.0\Strategy.runtimeconfig.dev.json
+C:\Users\Alban\source\repos\Strategy\Strategy\bin\Debug\net5.0\Strategy.dll
+C:\Users\Alban\source\repos\Strategy\Strategy\bin\Debug\net5.0\ref\Strategy.dll
+C:\Users\Alban\source\repos\Strategy\Strategy\bin\Debug\net5.0\Strategy.pdb
+C:\Users\Alban\source\repos\Strategy\Strategy\obj\Debug\net5.0\Strategy.csprojAssemblyReference.cache
+C:\Users\Alban\source\repos\Strategy\Strategy\obj\Debug\net5.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alban\source\repos\Strategy\Strategy\obj\Debug\net5.0\Strategy.AssemblyInfoInputs.cache
+C:\Users\Alban\source\repos\Strategy\Strategy\obj\Debug\net5.0\Strategy.AssemblyInfo.cs
+C:\Users\Alban\source\repos\Strategy\Strategy\obj\Debug\net5.0\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\Alban\source\repos\Strategy\Strategy\obj\Debug\net5.0\Strategy.dll
+C:\Users\Alban\source\repos\Strategy\Strategy\obj\Debug\net5.0\ref\Strategy.dll
+C:\Users\Alban\source\repos\Strategy\Strategy\obj\Debug\net5.0\Strategy.pdb
+C:\Users\Alban\source\repos\Strategy\Strategy\obj\Debug\net5.0\Strategy.genruntimeconfig.cache
