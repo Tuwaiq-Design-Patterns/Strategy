@@ -1,0 +1,16 @@
+C:\Users\temx3\source\repos\strategy\strategy\bin\Debug\net5.0\strategy.exe
+C:\Users\temx3\source\repos\strategy\strategy\bin\Debug\net5.0\strategy.deps.json
+C:\Users\temx3\source\repos\strategy\strategy\bin\Debug\net5.0\strategy.runtimeconfig.json
+C:\Users\temx3\source\repos\strategy\strategy\bin\Debug\net5.0\strategy.runtimeconfig.dev.json
+C:\Users\temx3\source\repos\strategy\strategy\bin\Debug\net5.0\strategy.dll
+C:\Users\temx3\source\repos\strategy\strategy\bin\Debug\net5.0\ref\strategy.dll
+C:\Users\temx3\source\repos\strategy\strategy\bin\Debug\net5.0\strategy.pdb
+C:\Users\temx3\source\repos\strategy\strategy\obj\Debug\net5.0\strategy.csprojAssemblyReference.cache
+C:\Users\temx3\source\repos\strategy\strategy\obj\Debug\net5.0\strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\temx3\source\repos\strategy\strategy\obj\Debug\net5.0\strategy.AssemblyInfoInputs.cache
+C:\Users\temx3\source\repos\strategy\strategy\obj\Debug\net5.0\strategy.AssemblyInfo.cs
+C:\Users\temx3\source\repos\strategy\strategy\obj\Debug\net5.0\strategy.csproj.CoreCompileInputs.cache
+C:\Users\temx3\source\repos\strategy\strategy\obj\Debug\net5.0\strategy.dll
+C:\Users\temx3\source\repos\strategy\strategy\obj\Debug\net5.0\ref\strategy.dll
+C:\Users\temx3\source\repos\strategy\strategy\obj\Debug\net5.0\strategy.pdb
+C:\Users\temx3\source\repos\strategy\strategy\obj\Debug\net5.0\strategy.genruntimeconfig.cache
