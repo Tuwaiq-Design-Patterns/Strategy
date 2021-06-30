@@ -1,0 +1,15 @@
+/Users/rawabeebrahim/Projects/StrategyPattern/StrategyPattern/obj/Debug/net5.0/StrategyPattern.csproj.AssemblyReference.cache
+/Users/rawabeebrahim/Projects/StrategyPattern/StrategyPattern/obj/Debug/net5.0/StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rawabeebrahim/Projects/StrategyPattern/StrategyPattern/obj/Debug/net5.0/StrategyPattern.AssemblyInfoInputs.cache
+/Users/rawabeebrahim/Projects/StrategyPattern/StrategyPattern/obj/Debug/net5.0/StrategyPattern.AssemblyInfo.cs
+/Users/rawabeebrahim/Projects/StrategyPattern/StrategyPattern/obj/Debug/net5.0/StrategyPattern.csproj.CoreCompileInputs.cache
+/Users/rawabeebrahim/Projects/StrategyPattern/StrategyPattern/bin/Debug/net5.0/StrategyPattern.deps.json
+/Users/rawabeebrahim/Projects/StrategyPattern/StrategyPattern/bin/Debug/net5.0/StrategyPattern.runtimeconfig.json
+/Users/rawabeebrahim/Projects/StrategyPattern/StrategyPattern/bin/Debug/net5.0/StrategyPattern.runtimeconfig.dev.json
+/Users/rawabeebrahim/Projects/StrategyPattern/StrategyPattern/bin/Debug/net5.0/StrategyPattern.dll
+/Users/rawabeebrahim/Projects/StrategyPattern/StrategyPattern/bin/Debug/net5.0/ref/StrategyPattern.dll
+/Users/rawabeebrahim/Projects/StrategyPattern/StrategyPattern/bin/Debug/net5.0/StrategyPattern.pdb
+/Users/rawabeebrahim/Projects/StrategyPattern/StrategyPattern/obj/Debug/net5.0/StrategyPattern.dll
+/Users/rawabeebrahim/Projects/StrategyPattern/StrategyPattern/obj/Debug/net5.0/ref/StrategyPattern.dll
+/Users/rawabeebrahim/Projects/StrategyPattern/StrategyPattern/obj/Debug/net5.0/StrategyPattern.pdb
+/Users/rawabeebrahim/Projects/StrategyPattern/StrategyPattern/obj/Debug/net5.0/StrategyPattern.genruntimeconfig.cache
