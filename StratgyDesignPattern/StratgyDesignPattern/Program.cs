@@ -14,6 +14,7 @@ namespace StratgyDesignPattern
         {
             return num1 + num2;
         }
+     }
         public class OperationSubstract : Strategy
         {
 
