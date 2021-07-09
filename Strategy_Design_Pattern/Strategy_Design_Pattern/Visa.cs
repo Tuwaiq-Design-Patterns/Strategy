@@ -11,7 +11,7 @@ namespace Strategy_Design_Pattern
         {
             if (amount < 0) { return false; }
 
-            Console.WriteLine("Visa");
+            Console.WriteLine("This payment has been done by Visa");
             return true;
         }
     }

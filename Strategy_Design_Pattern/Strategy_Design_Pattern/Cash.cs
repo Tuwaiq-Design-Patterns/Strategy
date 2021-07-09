@@ -1,9 +1,9 @@
 ﻿using System;
 namespace Strategy_Design_Pattern
 {
-    public class Mada:PaymentMethod
+    public class Cash : PaymentMethod
     {
-        public Mada()
+        public Cash()
         {
         }
 
@@ -11,7 +11,7 @@ namespace Strategy_Design_Pattern
         {
             if (amount <0) { return false; }
 
-            Console.WriteLine("Mada");
+            Console.WriteLine("This payment has been done by Cash");
             return true;
         }
     }
